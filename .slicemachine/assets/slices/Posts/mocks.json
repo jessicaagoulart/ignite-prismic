@@ -1,0 +1,24 @@
+[
+  {
+    "variation": "default",
+    "name": "Default",
+    "slice_type": "posts",
+    "items": [],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Iterate one-to-one mindshare",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Et ad do sint occaecat sunt non enim irure anim nulla ut sint magna.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
